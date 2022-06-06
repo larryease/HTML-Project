@@ -1,0 +1,62 @@
+td {
+vertical-align: top;
+}
+
+img {
+padding: 5px;
+border: 5px solid black;
+}
+
+h3 {
+    color: darkblue;
+}
+
+body {
+   
+    border-color: dimgray;
+    font-family: verdana;
+}
+
+table {
+     background-color: darkgrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+a:link {
+  color: green;  
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: chartreuse;
+}
+
+
+fieldset {
+    background-color: beige;
+   border-width: 6px 
+  border: 1px dotted;
+  
+}
+legend {
+   font-weight: bold;
+   font-size: xx-large;
+
+}
+button {
+    font-size: larger;
+}
+
+.key {
+    border:1px solid black;
+}
+#contact {
+    background-color: rgb(49, 8, 126);
+    font-size: xx-large;
+}
