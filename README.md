@@ -1,4 +1,4 @@
-# HTML-and-CSS-Projects - https://larryease.github.io/HTML-and-CSS-Projects/
+
 A Repository for HTML and CSS Projects
 Create the following HTML pages, each page should have links leading to the other pages in a navigation bar at the header. For example, on the About page (home page) there should be a navigation bar containing links to the contact page, registration page and login page :
 About Me (this should be your home page), 
